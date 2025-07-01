@@ -5,5 +5,10 @@ public class UsersClass
 	{
 		System.out.println("UsersClass.login()");
 	}
+	
+	public void m1()
+	{
+		System.out.println("UsersClass.m1()");
+	}
 
 }
