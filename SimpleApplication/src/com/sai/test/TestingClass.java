@@ -6,5 +6,9 @@ public class TestingClass
 	{
 		System.out.println("TestingClass.ValidiateCredentails()");
 	}
+	public void checkingUsersInfo()
+	{
+		System.out.println("TestingClass.checkingUsersInfo()");
+	}
 
 }
